@@ -1,0 +1,650 @@
+[
+  {
+    "id": 1,
+    "subcategory": "Country Flags",
+    "product_name": "US Flag",
+    "product_url": "https://www.bannerbuzz.com/us-flag/p"
+  },
+  {
+    "id": 2,
+    "subcategory": "Country Flags",
+    "product_name": "Canada Flag",
+    "product_url": "https://www.bannerbuzz.com/canada-flag/p"
+  },
+  {
+    "id": 3,
+    "subcategory": "Country Flags",
+    "product_name": "Ukraine Flag",
+    "product_url": "https://www.bannerbuzz.com/ukraine-flag/p"
+  },
+  {
+    "id": 4,
+    "subcategory": "Country Flags",
+    "product_name": "New Zealand Flag",
+    "product_url": "https://www.bannerbuzz.com/new-zealand-flag/p"
+  },
+  {
+    "id": 5,
+    "subcategory": "Country Flags",
+    "product_name": "Australia Flag",
+    "product_url": "https://www.bannerbuzz.com/australia-flag/p"
+  },
+  {
+    "id": 6,
+    "subcategory": "Country Flags",
+    "product_name": "India Flag",
+    "product_url": "https://www.bannerbuzz.com/india-flag/p"
+  },
+  {
+    "id": 7,
+    "subcategory": "Country Flags",
+    "product_name": "UK Flag",
+    "product_url": "https://www.bannerbuzz.com/uk-flag/p"
+  },
+  {
+    "id": 8,
+    "subcategory": "Country Flags",
+    "product_name": "Israel Flag",
+    "product_url": "https://www.bannerbuzz.com/israel-flag/p"
+  },
+  {
+    "id": 9,
+    "subcategory": "Country Flags",
+    "product_name": "Italy Flag",
+    "product_url": "https://www.bannerbuzz.com/italy-flag/p"
+  },
+  {
+    "id": 10,
+    "subcategory": "Country Flags",
+    "product_name": "Mexico Flag",
+    "product_url": "https://www.bannerbuzz.com/mexico-flag/p"
+  },
+  {
+    "id": 11,
+    "subcategory": "Country Flags",
+    "product_name": "Switzerland Flag",
+    "product_url": "https://www.bannerbuzz.com/switzerland-flag/p"
+  },
+  {
+    "id": 12,
+    "subcategory": "Country Flags",
+    "product_name": "France Flag",
+    "product_url": "https://www.bannerbuzz.com/france-flag/p"
+  },
+  {
+    "id": 13,
+    "subcategory": "Country Flags",
+    "product_name": "Greece Flag",
+    "product_url": "https://www.bannerbuzz.com/greece-flag/p"
+  },
+  {
+    "id": 14,
+    "subcategory": "Country Flags",
+    "product_name": "Netherlands Flag",
+    "product_url": "https://www.bannerbuzz.com/netherlands-flag/p"
+  },
+  {
+    "id": 15,
+    "subcategory": "Country Flags",
+    "product_name": "Afghanistan Flag",
+    "product_url": "https://www.bannerbuzz.com/afghanistan-flag/p"
+  },
+  {
+    "id": 16,
+    "subcategory": "Country Flags",
+    "product_name": "Sweden Flag",
+    "product_url": "https://www.bannerbuzz.com/sweden-flag/p"
+  },
+  {
+    "id": 17,
+    "subcategory": "Country Flags",
+    "product_name": "England Flag",
+    "product_url": "https://www.bannerbuzz.com/england-flag/p"
+  },
+  {
+    "id": 18,
+    "subcategory": "Country Flags",
+    "product_name": "Germany Flag",
+    "product_url": "https://www.bannerbuzz.com/germany-flag/p"
+  },
+  {
+    "id": 19,
+    "subcategory": "Country Flags",
+    "product_name": "Japan Flag",
+    "product_url": "https://www.bannerbuzz.com/japan-flag/p"
+  },
+  {
+    "id": 20,
+    "subcategory": "Country Flags",
+    "product_name": "Norway Flag",
+    "product_url": "https://www.bannerbuzz.com/norway-flag/p"
+  },
+  {
+    "id": 21,
+    "subcategory": "Country Flags",
+    "product_name": "China Flag",
+    "product_url": "https://www.bannerbuzz.com/china-flag/p"
+  },
+  {
+    "id": 22,
+    "subcategory": "Country Flags",
+    "product_name": "Pakistan Flag",
+    "product_url": "https://www.bannerbuzz.com/pakistan-flag/p"
+  },
+  {
+    "id": 23,
+    "subcategory": "Country Flags",
+    "product_name": "Finland Flag",
+    "product_url": "https://www.bannerbuzz.com/finland-flag/p"
+  },
+  {
+    "id": 24,
+    "subcategory": "Country Flags",
+    "product_name": "Thailand Flag",
+    "product_url": "https://www.bannerbuzz.com/thailand-flag/p"
+  },
+  {
+    "id": 25,
+    "subcategory": "Country Flags",
+    "product_name": "Malaysia Flag",
+    "product_url": "https://www.bannerbuzz.com/malaysia-flag/p"
+  },
+  {
+    "id": 26,
+    "subcategory": "Country Flags",
+    "product_name": "Zimbabwe Flag",
+    "product_url": "https://www.bannerbuzz.com/zimbabwe-flag/p"
+  },
+  {
+    "id": 27,
+    "subcategory": "Country Flags",
+    "product_name": "Denmark Flag",
+    "product_url": "https://www.bannerbuzz.com/denmark-flag/p"
+  },
+  {
+    "id": 28,
+    "subcategory": "Country Flags",
+    "product_name": "Brazil Flag",
+    "product_url": "https://www.bannerbuzz.com/brazil-flag/p"
+  },
+  {
+    "id": 29,
+    "subcategory": "Country Flags",
+    "product_name": "Indonesia Flag",
+    "product_url": "https://www.bannerbuzz.com/indonesia-flag/p"
+  },
+  {
+    "id": 30,
+    "subcategory": "Country Flags",
+    "product_name": "Colombia Flag",
+    "product_url": "https://www.bannerbuzz.com/colombia-flag/p"
+  },
+  {
+    "id": 31,
+    "subcategory": "Country Flags",
+    "product_name": "Nepal Flag",
+    "product_url": "https://www.bannerbuzz.com/nepal-flag/p"
+  },
+  {
+    "id": 32,
+    "subcategory": "Country Flags",
+    "product_name": "Russia Flag",
+    "product_url": "https://www.bannerbuzz.com/russia-flag/p"
+  },
+  {
+    "id": 33,
+    "subcategory": "Country Flags",
+    "product_name": "Kenya Flag",
+    "product_url": "https://www.bannerbuzz.com/kenya-flag/p"
+  },
+  {
+    "id": 34,
+    "subcategory": "Country Flags",
+    "product_name": "Türkiye Flag",
+    "product_url": "https://www.bannerbuzz.com/turkey-flag/p"
+  },
+  {
+    "id": 35,
+    "subcategory": "Country Flags",
+    "product_name": "Myanmar Flag",
+    "product_url": "https://www.bannerbuzz.com/myanmar-flag/p"
+  },
+  {
+    "id": 36,
+    "subcategory": "Country Flags",
+    "product_name": "Uae Flag",
+    "product_url": "https://www.bannerbuzz.com/uae-flag/p"
+  },
+  {
+    "id": 37,
+    "subcategory": "Country Flags",
+    "product_name": "Sri Lanka Flag",
+    "product_url": "https://www.bannerbuzz.com/sri-lanka-flag/p"
+  },
+  {
+    "id": 38,
+    "subcategory": "Country Flags",
+    "product_name": "Nigeria Flag",
+    "product_url": "https://www.bannerbuzz.com/nigeria-flag/p"
+  },
+  {
+    "id": 39,
+    "subcategory": "Country Flags",
+    "product_name": "Bhutan Flag",
+    "product_url": "https://www.bannerbuzz.com/bhutan-flag/p"
+  },
+  {
+    "id": 40,
+    "subcategory": "Country Flags",
+    "product_name": "Austria Flag",
+    "product_url": "https://www.bannerbuzz.com/austria-flag/p"
+  },
+  {
+    "id": 41,
+    "subcategory": "Country Flags",
+    "product_name": "Romania Flag",
+    "product_url": "https://www.bannerbuzz.com/romania-flag/p"
+  },
+  {
+    "id": 42,
+    "subcategory": "Country Flags",
+    "product_name": "Egypt Flag",
+    "product_url": "https://www.bannerbuzz.com/egypt-flag/p"
+  },
+  {
+    "id": 43,
+    "subcategory": "Country Flags",
+    "product_name": "Argentina Flag",
+    "product_url": "https://www.bannerbuzz.com/argentina-flag/p"
+  },
+  {
+    "id": 44,
+    "subcategory": "Country Flags",
+    "product_name": "Singapore Flag",
+    "product_url": "https://www.bannerbuzz.com/singapore-flag/p"
+  },
+  {
+    "id": 45,
+    "subcategory": "Country Flags",
+    "product_name": "Iran Flag",
+    "product_url": "https://www.bannerbuzz.com/iran-flag/p"
+  },
+  {
+    "id": 46,
+    "subcategory": "Country Flags",
+    "product_name": "Bangladesh Flag",
+    "product_url": "https://www.bannerbuzz.com/bangladesh-flag/p"
+  },
+  {
+    "id": 47,
+    "subcategory": "Country Flags",
+    "product_name": "Uganda Flag",
+    "product_url": "https://www.bannerbuzz.com/uganda-flag/p"
+  },
+  {
+    "id": 48,
+    "subcategory": "Country Flags",
+    "product_name": "Belgium Flag",
+    "product_url": "https://www.bannerbuzz.com/belgium-flag/p"
+  },
+  {
+    "id": 49,
+    "subcategory": "Country Flags",
+    "product_name": "Bahrain Flag",
+    "product_url": "https://www.bannerbuzz.com/bahrain-flag/p"
+  },
+  {
+    "id": 50,
+    "subcategory": "Country Flags",
+    "product_name": "Hungary Flag",
+    "product_url": "https://www.bannerbuzz.com/hungary-flag/p"
+  },
+  {
+    "id": 51,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed We are Open Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-we-are-open-feather-flag/p"
+  },
+  {
+    "id": 52,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed Testing Done Here Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-testing-done-here-feather-flag/p"
+  },
+  {
+    "id": 53,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed Temporary Closed Order Online Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-temporary-closed-order-online-feather-flag/p"
+  },
+  {
+    "id": 54,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed Take Out Parking Only Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-take-out-parking-only-feather-flag/p"
+  },
+  {
+    "id": 55,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed Quarantine Area Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-quarantine-area-feather-flag/p"
+  },
+  {
+    "id": 56,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed Parking for Takeaway Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-parking-for-takeaway-feather-flag/p"
+  },
+  {
+    "id": 57,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed No Dining Order Online Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-no-dining-order-online-feather-flag/p"
+  },
+  {
+    "id": 58,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed Maintain Safe Distance Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-maintain-safe-distance-feather-flag/p"
+  },
+  {
+    "id": 59,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed Curbside Pick Up Only Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-curbside-pick-up-only-feather-flag/p"
+  },
+  {
+    "id": 60,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed Church at Home Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-church-at-home-feather-flag/p"
+  },
+  {
+    "id": 61,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed Welcome Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-welcome-feather-flag/p"
+  },
+  {
+    "id": 62,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed Open House Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-open-house-feather-flag/p"
+  },
+  {
+    "id": 63,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed Now Open Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-now-open-feather-flag/p"
+  },
+  {
+    "id": 64,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed Grand Opening Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-grand-opening-feather-flag/p"
+  },
+  {
+    "id": 65,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed For Sale Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-for-sale-feather-flag/p"
+  },
+  {
+    "id": 66,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed For Rent Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-for-rent-feather-flag/p"
+  },
+  {
+    "id": 67,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed For Lease Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-for-lease-feather-flag/p"
+  },
+  {
+    "id": 68,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed Auction Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-auction-feather-flag/p"
+  },
+  {
+    "id": 69,
+    "subcategory": "Pre-Printed Flags",
+    "product_name": "Pre-Printed Car Wash Feather Flag",
+    "product_url": "https://www.bannerbuzz.com/pre-printed-car-wash-feather-flag/p"
+  },
+  {
+    "id": 70,
+    "subcategory": "Advertising Flags",
+    "product_name": "Feather Flags",
+    "product_url": "https://www.bannerbuzz.com/feather-flags/p"
+  },
+  {
+    "id": 71,
+    "subcategory": "Advertising Flags",
+    "product_name": "Personalized Flags",
+    "product_url": "https://www.bannerbuzz.com/personalized-flags/p"
+  },
+  {
+    "id": 72,
+    "subcategory": "Advertising Flags",
+    "product_name": "Rectangle Flags",
+    "product_url": "https://www.bannerbuzz.com/rectangle-flags/p"
+  },
+  {
+    "id": 73,
+    "subcategory": "Advertising Flags",
+    "product_name": "Blade Flags",
+    "product_url": "https://www.bannerbuzz.com/blade-flags/p"
+  },
+  {
+    "id": 74,
+    "subcategory": "Advertising Flags",
+    "product_name": "Teardrop Flags",
+    "product_url": "https://www.bannerbuzz.com/teardrop-flags/p"
+  },
+  {
+    "id": 75,
+    "subcategory": "Advertising Flags",
+    "product_name": "L Flags",
+    "product_url": "https://www.bannerbuzz.com/l-flags/p"
+  },
+  {
+    "id": 76,
+    "subcategory": "Advertising Flags",
+    "product_name": "Car Flags",
+    "product_url": "https://www.bannerbuzz.com/car-flags/p"
+  },
+  {
+    "id": 77,
+    "subcategory": "Advertising Flags",
+    "product_name": "Giant Flag Pole",
+    "product_url": "https://www.bannerbuzz.com/giant-flag-pole/p"
+  },
+  {
+    "id": 78,
+    "subcategory": "Advertising Flags",
+    "product_name": "Triangle Flags",
+    "product_url": "https://www.bannerbuzz.com/triangle-flags/p"
+  },
+  {
+    "id": 79,
+    "subcategory": "Advertising Flags",
+    "product_name": "Hand Flags",
+    "product_url": "https://www.bannerbuzz.com/hand-flags/p"
+  },
+  {
+    "id": 80,
+    "subcategory": "Advertising Flags",
+    "product_name": "Burgee Flags",
+    "product_url": "https://www.bannerbuzz.com/burgee-flags/p"
+  },
+  {
+    "id": 81,
+    "subcategory": "Advertising Flags",
+    "product_name": "Garden Flags",
+    "product_url": "https://www.bannerbuzz.com/garden-flags/p"
+  },
+  {
+    "id": 82,
+    "subcategory": "Advertising Flags",
+    "product_name": "Halloween Hand Flags",
+    "product_url": "https://www.bannerbuzz.com/halloween-hand-flags/p"
+  },
+  {
+    "id": 83,
+    "subcategory": "Advertising Flags",
+    "product_name": "Pride Flags",
+    "product_url": "https://www.bannerbuzz.com/pride-flags/p"
+  },
+  {
+    "id": 84,
+    "subcategory": "Advertising Flags",
+    "product_name": "Crowd Flags",
+    "product_url": "https://www.bannerbuzz.com/crowd-flags/p"
+  },
+  {
+    "id": 85,
+    "subcategory": "Advertising Flags",
+    "product_name": "Feather Flag - Mesh",
+    "product_url": "https://www.bannerbuzz.com/feather-flag-mesh/p"
+  },
+  {
+    "id": 86,
+    "subcategory": "Advertising Flags",
+    "product_name": "Halloween Feather Flags",
+    "product_url": "https://www.bannerbuzz.com/halloween-feather-flags/p"
+  },
+  {
+    "id": 87,
+    "subcategory": "Advertising Flags",
+    "product_name": "Concave Flags",
+    "product_url": "https://www.bannerbuzz.com/concave-flags/p"
+  },
+  {
+    "id": 88,
+    "subcategory": "Advertising Flags",
+    "product_name": "Swooper Flags",
+    "product_url": "https://www.bannerbuzz.com/swooper-flags/p"
+  },
+  {
+    "id": 89,
+    "subcategory": "Advertising Flags",
+    "product_name": "Shark Fin Flags",
+    "product_url": "https://www.bannerbuzz.com/shark-fin-flags/p"
+  },
+  {
+    "id": 90,
+    "subcategory": "Advertising Flags",
+    "product_name": "Pinpoint Flags",
+    "product_url": "https://www.bannerbuzz.com/pinpoint-flags/p"
+  },
+  {
+    "id": 91,
+    "subcategory": "Golf Flags",
+    "product_name": "Golf Flags - Rectangle",
+    "product_url": "https://www.bannerbuzz.com/golf-flags/p"
+  },
+  {
+    "id": 92,
+    "subcategory": "Golf Flags",
+    "product_name": "Golf Flags - Triangle",
+    "product_url": "https://www.bannerbuzz.com/golf-flags-triangle/p"
+  },
+  {
+    "id": 93,
+    "subcategory": "Desk Flags",
+    "product_name": "Desk Flags - Blade",
+    "product_url": "https://www.bannerbuzz.com/desk-flags-blade/p"
+  },
+  {
+    "id": 94,
+    "subcategory": "Desk Flags",
+    "product_name": "Desk Flags - Teardrop",
+    "product_url": "https://www.bannerbuzz.com/desk-flags/p"
+  },
+  {
+    "id": 95,
+    "subcategory": "Clip Flags",
+    "product_name": "Clip Flags - Rectangle",
+    "product_url": "https://www.bannerbuzz.com/clip-flags/p"
+  },
+  {
+    "id": 96,
+    "subcategory": "Clip Flags",
+    "product_name": "Clip Flags - Teardrop",
+    "product_url": "https://www.bannerbuzz.com/clip-flags-teardrop/p"
+  },
+  {
+    "id": 97,
+    "subcategory": "Clip Flags",
+    "product_name": "Clip Flags - Blade",
+    "product_url": "https://www.bannerbuzz.com/clip-flags-blade/p"
+  },
+  {
+    "id": 98,
+    "subcategory": "Suction Flags",
+    "product_name": "Suction Cup Flags - Rectangle",
+    "product_url": "https://www.bannerbuzz.com/suction-cup-flags/p"
+  },
+  {
+    "id": 99,
+    "subcategory": "Suction Flags",
+    "product_name": "Suction Cup Flags - Teardrop",
+    "product_url": "https://www.bannerbuzz.com/suction-cup-flags-teardrop/p"
+  },
+  {
+    "id": 100,
+    "subcategory": "Suction Flags",
+    "product_name": "Suction Cup Flags - Blade",
+    "product_url": "https://www.bannerbuzz.com/suction-cup-flags-blade/p"
+  },
+  {
+    "id": 101,
+    "subcategory": "Backpack Flags",
+    "product_name": "Backpack Flags - Rectangle",
+    "product_url": "https://www.bannerbuzz.com/backpack-flags/p"
+  },
+  {
+    "id": 102,
+    "subcategory": "Backpack Flags",
+    "product_name": "Backpack Flags - U Shape",
+    "product_url": "https://www.bannerbuzz.com/backpack-flags-u-shape/p"
+  },
+  {
+    "id": 103,
+    "subcategory": "Backpack Flags",
+    "product_name": "Backpack Flags - Teardrop",
+    "product_url": "https://www.bannerbuzz.com/backpack-flags-teardrop/p"
+  },
+  {
+    "id": 104,
+    "subcategory": "Backpack Flags",
+    "product_name": "Backpack Flags - Blade",
+    "product_url": "https://www.bannerbuzz.com/backpack-flags-blade/p"
+  },
+  {
+    "id": 105,
+    "subcategory": "Political Flags",
+    "product_name": "Hand Held Political Flags",
+    "product_url": "https://www.bannerbuzz.com/custom-hand-held-political-flags/p"
+  },
+  {
+    "id": 106,
+    "subcategory": "Political Flags",
+    "product_name": "Political Flags",
+    "product_url": "https://www.bannerbuzz.com/political-flags/p"
+  },
+  {
+    "id": 107,
+    "subcategory": "Political Flags",
+    "product_name": "Republican Party Flags",
+    "product_url": "https://www.bannerbuzz.com/republican-party-flags/p"
+  },
+  {
+    "id": 108,
+    "subcategory": "Political Flags",
+    "product_name": "Democratic Party Flags",
+    "product_url": "https://www.bannerbuzz.com/democratic-party-flags/p"
+  }
+]
